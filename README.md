@@ -1,4 +1,4 @@
-Results Repository Service
+Results Repository Service [![Build Status](https://secure.travis-ci.org/impactcentre/iif-results-repository.png?branch=master)](http://travis-ci.org/impactcentre/iif-results-repository)
 --------------------------
 
 **Description**
